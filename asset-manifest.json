@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sharmitha35/hallbooking-project.git/static/css/main.7f9989e5.css",
+    "main.js": "/sharmitha35/hallbooking-project.git/static/js/main.6da571c6.js",
+    "static/js/498.757aaa00.chunk.js": "/sharmitha35/hallbooking-project.git/static/js/498.757aaa00.chunk.js",
+    "static/js/703.d5e0d9d2.chunk.js": "/sharmitha35/hallbooking-project.git/static/js/703.d5e0d9d2.chunk.js",
+    "static/js/598.0e222cae.chunk.js": "/sharmitha35/hallbooking-project.git/static/js/598.0e222cae.chunk.js",
+    "static/media/semi.jpg": "/sharmitha35/hallbooking-project.git/static/media/semi.3511d76ec08fe32b4b7b.jpg",
+    "static/media/audi.jpg": "/sharmitha35/hallbooking-project.git/static/media/audi.6d71afad19cc1b24d8ec.jpg",
+    "static/media/s2.jpg": "/sharmitha35/hallbooking-project.git/static/media/s2.502da5d36602e2635f4f.jpg",
+    "static/media/book.jpeg": "/sharmitha35/hallbooking-project.git/static/media/book.72493afc676b9566a714.jpeg",
+    "static/media/hallsumma.jpeg": "/sharmitha35/hallbooking-project.git/static/media/hallsumma.52cec8b5eae2340405ec.jpeg",
+    "static/media/logo.svg": "/sharmitha35/hallbooking-project.git/static/media/logo.53899125251613f790a580ecbebf7d7e.svg",
+    "index.html": "/sharmitha35/hallbooking-project.git/index.html",
+    "main.7f9989e5.css.map": "/sharmitha35/hallbooking-project.git/static/css/main.7f9989e5.css.map",
+    "main.6da571c6.js.map": "/sharmitha35/hallbooking-project.git/static/js/main.6da571c6.js.map",
+    "498.757aaa00.chunk.js.map": "/sharmitha35/hallbooking-project.git/static/js/498.757aaa00.chunk.js.map",
+    "703.d5e0d9d2.chunk.js.map": "/sharmitha35/hallbooking-project.git/static/js/703.d5e0d9d2.chunk.js.map",
+    "598.0e222cae.chunk.js.map": "/sharmitha35/hallbooking-project.git/static/js/598.0e222cae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f9989e5.css",
+    "static/js/main.6da571c6.js"
+  ]
+}
